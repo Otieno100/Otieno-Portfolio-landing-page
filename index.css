@@ -4,16 +4,32 @@
     font-weight: bold;
     font-family: sans-serif;
     color: black;
-    margin-top: 30px;
+    margin-top: 18x;
     font-size: 20px;
     list-style: none;
+    height: 15vh;
+
+    
 }
+
+.bar{
+
+height: 15vh;
+width: 185vh;
+border: solid;
+border-radius: 20px;
+}
+
+
+
 .logo{
 display: flex;
 float: left;
 width: 80px;
 font-size: 30px;
 margin-left: 80px;
+
+padding-right: 200px;
 }
 .nav-bar{
 
@@ -27,14 +43,29 @@ list-style: none;
 .background{
 
 background-color: #fcbf49;
+
     
 }
 
 .landing{
-
+    display: flex;
+    justify-content: center;
+    border: solid;
+    border-radius: 20px;
 background-color: #003049;
 height: 70vh;
 width: 185vh;
-background-image: ("https://praxis.dk/sites/praxis.dk/files/Produkter/Portfolio%209788729000686.jpg");
+background-image:ur("https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/776932/programming-a-robot-an-introductory-tutorial-b4ecdc608c18b5e580a62afff498de9b.png");
 
 }
+
+.name{
+margin-top:150px;
+height: 40vh;
+width: 15vw;
+color: white;
+margin-right: 40px;
+font-size: 25px;
+border-radius: 20px;
+}
+
