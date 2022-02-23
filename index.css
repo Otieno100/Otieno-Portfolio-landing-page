@@ -7,7 +7,7 @@
     margin-top: 18x;
     font-size: 20px;
     list-style: none;
-    height: 15vh;
+    height: 5vh;
 
     
 }
@@ -44,16 +44,19 @@ color: aliceblue;
 .background{
 
 background-color: #fcbf49;
-
+background-position: absolute;
+margin-right: 50px;
+background: -moz-linear-gradient(left 80% left 80%);
+background: linear-gradient(left 80%);
     
 }
 
 .landing{
     display: flex;
     justify-content: center;
-    border: solid;
     border-radius: 20px;
-background-color: #003049;
+
+opacity: 10px;
 height: 70vh;
 width: 185vh;
 background-image:ur("https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/776932/programming-a-robot-an-introductory-tutorial-b4ecdc608c18b5e580a62afff498de9b.png");
@@ -61,7 +64,7 @@ background-image:ur("https://bs-uploads.toptal.io/blackfish-uploads/components/s
 }
 
 .name{
-margin-top:0px;
+margin-top:100px;
 height: 40vh;
 width: 15vw;
 color: white;
@@ -81,18 +84,19 @@ justify-content: center;
 }
 
 .project-1{
-border: solid none;
-height: 550px;
+border: solid ;
+height: 360px;
 align-items: center;
 text-align: center;
 text-align: justify;
 justify-content: space-evenly;
 margin-right: 10px;
 text-align: center;
+background-color:  #f7fdf6;;
 
 
 width: 350px !important;
-border-radius: 50px;
+border-radius: 30px;
 margin: 20px;
 padding: 10px;
 box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
@@ -110,11 +114,50 @@ box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
 }
 
 .about{
-margin-top: 100px;
+margin-top: 200px;
 justify-content: center;
 text-align: center;
 align-items: center;
+margin-right: 200px;
 
 
 
 }
+
+
+.scape{
+
+
+    background-color: #003049;
+border: solid;
+border-radius: 20px;
+}
+
+
+.vl {
+    border-left: 6px solid #003049;;
+    height: 450px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+
+    
+  }
+
+  .line{
+
+display: flex;
+justify-content: center;
+margin-top: 100px;
+margin-bottom: 100px;
+
+
+  }
+
+  .info{
+
+margin-left: 300px;
+margin-top: 50px;
+color: black;
+
+  }
