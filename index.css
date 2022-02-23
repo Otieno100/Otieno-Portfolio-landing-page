@@ -161,3 +161,36 @@ margin-top: 50px;
 color: black;
 
   }
+
+
+.pro{
+display: flex;
+justify-content: center;
+
+}
+
+#hobies{
+
+background-image: url("https://cdn.cnn.com/cnnnext/dam/assets/210917102721-frilufleadbartone-interiors-lissa-gotwals-photography2.jpg");
+ height: 120vh;
+ width: 200vh;
+ border-radius: 30px;
+ margin-top: 100px;
+ display: flex;
+justify-content: center;
+position: absolute;
+}
+
+.hazard{
+
+height: 60vh;
+width: 40vh;
+border-radius: 30px;
+}
+
+.absolute{
+
+display: flex;
+margin-top: 720px;
+
+}
