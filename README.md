@@ -41,7 +41,47 @@ This landing page contains my portfolio
 
 [Go Back to the top](#portfolio)
 
+<<<<<<< HEAD
 ## licence
+=======
+<<<<<<< HEAD
+=======
+
+## Technology Used
+* HTML - which was used to build the structure of the pages.
+
+* CSS - which was used to style the pages incuding the left aside navigation bar
+* Javascript to make the website more responsive
+
+## Reference
+* Materialize CSS
+* w3 school
+
+
+[Go Back to the top](#portfolio)
+
+>>>>>>> 279c6994b135f5ff957fc8c28650d213721c8d7c
+## Development
+Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+Fork the repo
+Create a new branch (git checkout -b improve-feature)
+Make the appropriate changes in the files
+Add changes to reflect the changes made
+Commit your changes (git commit -am 'Improve feature')
+Push to the branch (git push origin improve-feature)
+Create a Pull Request
+<<<<<<< HEAD
+=======
+
+## live link to my repository
+https://otieno100.github.io/Otieno-Portfolio-landing-page/
+
+
+#licence
+>>>>>>> origin
 
 MIT License
 
@@ -64,3 +104,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 279c6994b135f5ff957fc8c28650d213721c8d7c
+>>>>>>> origin
