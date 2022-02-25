@@ -72,7 +72,7 @@ Create a Pull Request
 https://otieno100.github.io/Otieno-Portfolio-landing-page/
 
 
-## licence
+#licence
 
 MIT License
 
