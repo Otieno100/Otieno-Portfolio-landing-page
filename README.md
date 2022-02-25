@@ -28,6 +28,8 @@ This landing page contains my portfolio
 ### Installation Process
 
 [Go Back to the top](#portfolio)
+
+
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
@@ -42,6 +44,26 @@ This landing page contains my portfolio
 [Go Back to the top](#portfolio)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+## Development
+Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+Fork the repo
+Create a new branch (git checkout -b improve-feature)
+Make the appropriate changes in the files
+Add changes to reflect the changes made
+Commit your changes (git commit -am 'Improve feature')
+Push to the branch (git push origin improve-feature)
+Create a Pull Request
+
+## live link to my repository
+https://otieno100.github.io/Otieno-Portfolio-landing-page/
+
+
+>>>>>>> 5b79b83c22c26da5c6783c4be6f5f36411a7da1e
 ## licence
 =======
 <<<<<<< HEAD
