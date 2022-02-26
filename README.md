@@ -42,10 +42,6 @@ This landing page contains my portfolio
 
 
 [Go Back to the top](#portfolio)
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 ## Development
 Want to contribute? Great!
 
