@@ -63,11 +63,8 @@ Create a Pull Request
 https://otieno100.github.io/Otieno-Portfolio-landing-page/
 
 
->>>>>>> 5b79b83c22c26da5c6783c4be6f5f36411a7da1e
+
 ## licence
-=======
-<<<<<<< HEAD
-=======
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
@@ -81,8 +78,7 @@ https://otieno100.github.io/Otieno-Portfolio-landing-page/
 
 
 [Go Back to the top](#portfolio)
-
->>>>>>> 279c6994b135f5ff957fc8c28650d213721c8d7c
+279c6994b135f5ff957fc8c28650d213721c8d7c
 ## Development
 Want to contribute? Great!
 
@@ -94,16 +90,13 @@ Make the appropriate changes in the files
 Add changes to reflect the changes made
 Commit your changes (git commit -am 'Improve feature')
 Push to the branch (git push origin improve-feature)
-Create a Pull Request
-<<<<<<< HEAD
-=======
+Create a Pull Request 
 
 ## live link to my repository
 https://otieno100.github.io/Otieno-Portfolio-landing-page/
 
 
-#licence
->>>>>>> origin
+#licence origin
 
 MIT License
 
@@ -124,10 +117,4 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-<<<<<<< HEAD
-=======
-
->>>>>>> 279c6994b135f5ff957fc8c28650d213721c8d7c
->>>>>>> origin
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALIN
